@@ -1,1 +1,1 @@
-web: yarn --cwd api start
+web: yarn start
